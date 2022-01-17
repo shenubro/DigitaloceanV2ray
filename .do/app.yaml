@@ -1,8 +1,8 @@
-name: sample-python
+name: Digitalocean-V2ray
 services:
 - environment_slug: python
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-python
-  name: sample-python
+    repo: Horapusaa/Digitalocean-V2ray
+  name: Digitalocean-V2ray
