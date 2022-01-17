@@ -6,3 +6,6 @@ spec:
       branch: main
       repo_clone_url: https://github.com/Horapusaa/sample-python.git
     name: sample-python
+    envs:
+    - key: UUID
+      value: "d0ce27a8-3151-4972-ad72-0d7bcb55086a"
