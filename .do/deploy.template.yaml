@@ -1,8 +1,8 @@
 spec:
-  name: DigitaloceanV2ray
-  services: web
+  name: v2ray
+  services:
   - environment_slug: python
     git:
       branch: main
       repo_clone_url: https://github.com/Horapusaa/DigitaloceanV2ray.git
-    name: DigitaloceanV2ray
+    name: v2ray
