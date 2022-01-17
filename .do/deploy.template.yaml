@@ -1,6 +1,6 @@
 spec:
   name: DigitaloceanV2ray
-  services:
+  services: web
   - environment_slug: python
     git:
       branch: main
