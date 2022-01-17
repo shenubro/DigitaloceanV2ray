@@ -1,6 +1,6 @@
 ## Digitalocean-V2ray
 
-High Speed V2ray Script . Vrrt Easy to Deploy !
+High Speed V2ray Script . Very Easy to Deploy !
 
 ### Requirements
 
