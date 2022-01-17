@@ -4,8 +4,8 @@ spec:
   - environment_slug: python
     git:
       branch: main
-      repo_clone_url: https://github.com/Horapusaa/sample-python.git
-    name: sample-python
+      repo_clone_url: https://github.com/Horapusaa/Digitalocean-V2ray.git
+    name: Digitalocean-V2ray
     envs:
     - key: UUID
       value: "d0ce27a8-3151-4972-ad72-0d7bcb55086a"
