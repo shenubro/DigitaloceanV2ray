@@ -1,8 +1,8 @@
-name: Digitalocean-V2ray
+name: DigitaloceanV2ray
 services:
 - environment_slug: python
   github:
     branch: main
     deploy_on_push: true
-    repo: Horapusaa/Digitalocean-V2ray
-  name: Digitalocean-V2ray
+    repo: Horapusaa/DigitaloceanV2ray
+  name: DigitaloceanV2ray
